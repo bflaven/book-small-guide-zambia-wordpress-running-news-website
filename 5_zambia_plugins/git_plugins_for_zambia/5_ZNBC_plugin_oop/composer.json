@@ -1,0 +1,16 @@
+{
+    "name": "5_ZNBC_plugin_oop",
+    "description": "Manage a ZnbcTadalist in WordPress via an OOP Plugin",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "BF",
+            "email": "info@flaven.fr"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "ZnbcTadalist\\": "src/ZnbcTadalist/"
+        }
+    }
+}
