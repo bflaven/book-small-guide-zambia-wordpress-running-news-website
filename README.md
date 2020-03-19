@@ -32,14 +32,6 @@ It all started with a double injunction: on the one hand holding a training cour
 - Github: [https://github.com/bflaven/book-redefining-testing-strategy-agile-po-codeceptjs](https://github.com/bflaven/book-redefining-testing-strategy-agile-po-codeceptjs)
 - Amazon: [xxx](xxx)
 
-## Acknowledgments
-
-For book #2 & book #3, after a quick benchmark of the market solutions and the constraints that were mine, I totally relied on Codeception and CodeceptJS. I would like to take this opportunity to warmly thank the the Codeception (CP) and CodeceptJS (CPJS) team's excellent work and the remarkable documentation that accompanies it. Without this documentation, I believe that I would not have taken such a step.
-
-[Codeception - https://codeception.com/](https://codeception.com/)
-
-[CodeceptJS - https://codecept.io/](https://codecept.io/)
-
 ## Videos
 Coming soon
 
