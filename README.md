@@ -1,6 +1,6 @@
 # Book #1: The good and small "Zambian" guide for WordPress. How to run a News Website with WordPress?
 
-**Below you can find information and code about this book for sale on Amazon: [xxx](xxx)**
+**Below you can find information and code about this book for sale on Amazon: [https://www.amazon.com/dp/B08645F8DZ/](https://www.amazon.com/dp/B08645F8DZ/)**
 
 ![The good and small "Zambian" guide for WordPress. How to run a News Website with WordPress?](cover_book-small-guide-zambia-wordpress-running-news-website_400x640.png)
 
