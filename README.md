@@ -136,109 +136,109 @@ That was the state of mind that prevailed during the preparation of this trainin
     4. Let's try to explore the WP API
 
 ### 5_zambia_plugins
-Best practices in WP plugin development!
-1. Quick introduction to OOP and WordPress Plugins
-2. How does does it work in WP?
-3. Want more? Quick explanations on other OOP concepts
-4. Using Namespaces in WP plugin development
-5. Using composer in WP plugin development
-6. Use a boilerplate code in WP plugin development
-7. Touching for instance the database for WP
-8. Let's dive into our WP plugins examples
-9. Read more
+    Best practices in WP plugin development!
+    1. Quick introduction to OOP and WordPress Plugins
+    2. How does does it work in WP?
+    3. Want more? Quick explanations on other OOP concepts
+    4. Using Namespaces in WP plugin development
+    5. Using composer in WP plugin development
+    6. Use a boilerplate code in WP plugin development
+    7. Touching for instance the database for WP
+    8. Let's dive into our WP plugins examples
+    9. Read more
 
 ### 6_security_in_wp
-Manage security in WP
-1. Make a todolist for your WP security
-2. In case of hacking
-    3. Main security measures you can do or not...
-    3.1 Modify the existing .htaccess of WP
-    3.2 Add your own .htaccess for /wp-admin/
-    3.3 Create the file .htpasswd and add the user mysuperuser
-    3.4 Diagnose: Scanning the files of your previous WP
-4. A possible .htaccess for your WP
-5. Read more
+    Manage security in WP
+    1. Make a todolist for your WP security
+    2. In case of hacking
+        3. Main security measures you can do or not...
+        3.1 Modify the existing .htaccess of WP
+        3.2 Add your own .htaccess for /wp-admin/
+        3.3 Create the file .htpasswd and add the user mysuperuser
+        3.4 Diagnose: Scanning the files of your previous WP
+    4. A possible .htaccess for your WP
+    5. Read more
 
 ### 7_set_up_a_local_environment
-Set up a local environment for WordPress (WP)
-1. Needs & Choice for local environment
-2. Using Docker for WordPress
-3. Launch the install of your WordPress with Docker
-4. Working with WP-CLI
-5. The ultimate docker commands
-6. More resources
+    Set up a local environment for WordPress (WP)
+    1. Needs & Choice for local environment
+    2. Using Docker for WordPress
+    3. Launch the install of your WordPress with Docker
+    4. Working with WP-CLI
+    5. The ultimate docker commands
+    6. More resources
 
 ### 8_using_gitflow
-Using GitFlow Workflow and SourceTree
-1. Introduction
-2. How-to set up a repository, locally and on Github?
-3. How-to initialize Gitflow for this repository?
-4. Create a feature branch in this repository
-5. Finish a feature branch in this repository
-6. Start a release branch
-7. Finish a release branch
-8. Create and Finish a Hotfix
-9. Conclusion
-10.Read more
+    Using GitFlow Workflow and SourceTree
+    1. Introduction
+    2. How-to set up a repository, locally and on Github?
+    3. How-to initialize Gitflow for this repository?
+    4. Create a feature branch in this repository
+    5. Finish a feature branch in this repository
+    6. Start a release branch
+    7. Finish a release branch
+    8. Create and Finish a Hotfix
+    9. Conclusion
+    10.Read more
 
 ### 9_speeding_up_your_websites
-1. How to increase the site speed of an existing website? (part 1)
-1.1 Speed, Speed... it is all about speed!
-    1.2 How to Check Your WordPress Website Speed?
-        1.2.1 Get some result
-        1.2.2 One last advise for using such analysis tool.
-    1.3 Enable Gzip compression
-        1.3.1 Use a plugin to enable Gzip compression
-        1.3.2 Edit your .htaccess file to enable Gzip compression
-    1.4 Optimize Images
-    1.5 Eliminate Render-blocking JavaScript and CSS
-        1.5.1 The first solution
-        1.5.2 The second solution
-        1.5.3 The third solution
-        1.5.4 We pick.... the second solution
-    1.6 Optimize CSS delivery
-    1.7 Leverage Browser Caching
-    1.8 Reduce server response time
-    1.9 Remove Query Strings from Static Resources with Code
-    1.10 Use a CDN
-        1.11 Optimize Your Database
-        1.11.1 Some optimization queries for wp-config.php
-        1.11.2 Some optimization queries for phpMyAdmin
-        1.11.3 Control the revisions
-        1.11.4 MySQL command to delete spam
-        1.11.5 Delete WordPress Transient
-        1.11.6 More information about MySQL optimization for WP
-    1.12 What else?
-        1.12.1 Few plugins to go further
-        1.12.2 One short word on New Relic
-        1.13 Extra infos on site speed optimization
-        1.13.1 Speed tips from yahoo.com
-        1.13.2 Speed tips from pantheon.io for WP
-    1.14 Read more on WP optimization
-2. WP theme creation, Gulp, theme optimization & speed?
-    2.1 Some requirements
-    2.2 Gulp for WordPress: Initial Setup
-    2.3 Create a starter theme named zambia-wp-test-1
-    2.4 Let's play with Gulp for a minutes
-    2.5 Do some Gulp task for CSS
-    2.6 Do some Gulp task for images
-    2.7 Create a task that will delete the destination folder
-    2.8 Using NPM to start Gulp
-    2.9 Using Browsersync
-    2.10 More resources
+    1. How to increase the site speed of an existing website? (part 1)
+    1.1 Speed, Speed... it is all about speed!
+        1.2 How to Check Your WordPress Website Speed?
+            1.2.1 Get some result
+            1.2.2 One last advise for using such analysis tool.
+        1.3 Enable Gzip compression
+            1.3.1 Use a plugin to enable Gzip compression
+            1.3.2 Edit your .htaccess file to enable Gzip compression
+        1.4 Optimize Images
+        1.5 Eliminate Render-blocking JavaScript and CSS
+            1.5.1 The first solution
+            1.5.2 The second solution
+            1.5.3 The third solution
+            1.5.4 We pick.... the second solution
+        1.6 Optimize CSS delivery
+        1.7 Leverage Browser Caching
+        1.8 Reduce server response time
+        1.9 Remove Query Strings from Static Resources with Code
+        1.10 Use a CDN
+            1.11 Optimize Your Database
+            1.11.1 Some optimization queries for wp-config.php
+            1.11.2 Some optimization queries for phpMyAdmin
+            1.11.3 Control the revisions
+            1.11.4 MySQL command to delete spam
+            1.11.5 Delete WordPress Transient
+            1.11.6 More information about MySQL optimization for WP
+        1.12 What else?
+            1.12.1 Few plugins to go further
+            1.12.2 One short word on New Relic
+            1.13 Extra infos on site speed optimization
+            1.13.1 Speed tips from yahoo.com
+            1.13.2 Speed tips from pantheon.io for WP
+        1.14 Read more on WP optimization
+    2. WP theme creation, Gulp, theme optimization & speed?
+        2.1 Some requirements
+        2.2 Gulp for WordPress: Initial Setup
+        2.3 Create a starter theme named zambia-wp-test-1
+        2.4 Let's play with Gulp for a minutes
+        2.5 Do some Gulp task for CSS
+        2.6 Do some Gulp task for images
+        2.7 Create a task that will delete the destination folder
+        2.8 Using NPM to start Gulp
+        2.9 Using Browsersync
+        2.10 More resources
 
 
 ### 10_testing_wp
-Testing Wordpress
+    Testing Wordpress
 
 ### 11_conclusion
-Conclusion
+    Conclusion
 
 ### Resources
-Code avalaible
+    Code avalaible
 
 ### Lexicon
-Some Definitions
+    Some Definitions
 
 
 
