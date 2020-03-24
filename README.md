@@ -43,20 +43,16 @@ Coming soon
 
 **It begins in Zambia**
 
-I was asked to make a training session in Zambia for the Zambia National Broadcasting Corporation (ZNBC) about all the best practices of the digital department in the media group France Médias Monde (FMM) that I am working for. It occurs to me that it was not so easy to transpose what is done in terms of organization, work-ﬂow and best practices from one company to another.
+I was asked to deliver a training session in Zambia for the Zambia National Broadcasting Corporation (ZNBC) about the best practices on the management of a news website based from my experience as a Product Owner within the digital department in the media group France Médias Monde (FMM).
 
-Fortunately, the ZNBC website is using WordPress so I had to list any of these best practices and transpose it to a WordPress development.
+However, the digital department where I worked is composed by several teams that work according to agile principles such as sprints, dashboards, stakeholders, PO, rituals... and so on. These teams are developing the website, API and back-ofﬁce mostly using a PHP Framework like Symfony as well as some other frameworks for mobile applications both on iOS and Android. 
 
-This book is the result of the inquiry to transpose all the investigations to a comprehensive guide and presentation to manage in a modern way an API centric ecosystem both for website and mobile application. It was indeed to also a way to make a skills assessment on my own experience.
+But not every organisation can afford such platforms. In Zambia, for instance, the ZNBC website is running on WordPress. Indeed, WordPress is very widespread and has great references in the Media industry such as TechCrunch, The New Yorker, BBC America, Bloomberg Professional., The Ofﬁcial Star Wars Blog, Variety, Sony Music, MTV News...to name a few. 
 
-Like always this book does not have the purpose to deliver a theoretical knowledge or to teach you programming but only to provide a true handbook for someone with a light technical background but with a strong professional interest to run a successful news website through WordPress.
+This is why I had to transpose the best practices of a large agile organisation working with Symfony into a WordPress environment.
 
-More over without neglecting any technical aspects, I wanted to give the means to anyone to investigate all feasible developments for a WP website with all the market's requirements in force in the development area.
+This book a comprehensive guide to manage with agility an API centric ecosystem both for website and mobile application.This book does not have the goal neither to deliver a theoretical knowledge not to teach you programming but it provide you with a practical handbook on the management of a successful news website through WordPress for someone with moderate technical background and strong professional interest.
 
-
-The digital department where I worked is composed by several teams with an agile-based organization (sprint, dashboards, stakeholders, PO, rituals... and so on). These teams are handling software development, mostly in PHP Framework like Symfony for website, API and Back-ofﬁce and some native developers on mobile application both iOS and Android. Unfortunately, not everyone can afford such means, that was the case for the training in Zambia, necessity is the mother of invention! With the minimum, the challenge was to achieve the feat of being to reach the level of quality of sites like notable Big Name Brands that are using WordPress: TechCrunch, The New Yorker, BBC America, Bloomberg Professional., The Ofﬁcial Star Wars Blog, Variety, Sony Music, MTV News...
-
-That was the state of mind that prevailed during the preparation of this training session and for this book.
 
 ## Code
 **I try not to forget anything. The best thing to do is to make a fresh installation of CodeCeption (CP), finalize the configuration and then cut and paste the testing files one after the other with a WP running on custom URL in MAMP.**
