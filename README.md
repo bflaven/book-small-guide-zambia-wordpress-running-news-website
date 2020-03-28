@@ -39,7 +39,20 @@ The 3 volumes of the continuous learning trilogy provide a practical synthesis o
 - Amazon: [https://www.amazon.com/dp/B0865TT96K/](https://www.amazon.com/dp/B0865TT96K/)
 
 ## Videos
-Coming soon
+
+**All the videos of this Book #3 are available on YouTube in this playlist: [https://bit.ly/3bDSF2x](https://bit.ly/3bDSF2x)**
+
+- [Video #1 Set up a local environment for WordPress (WP), requirements for local environment](https://www.youtube.com/watch?v=YijmzQPiXcI)
+[![Video #1 Set up a local environment for WordPress (WP), requirements for local environment](part_1_yt_zambian_local_environment_with_docker_usecase_1.png)](https://www.youtube.com/watch?v=YijmzQPiXcI)
+
+
+- [Video #2 For a local environment, install MySQL, WordPress, CLI, phpmyadmin with Docker using a Makefile ](https://www.youtube.com/watch?v=Bel7dcK4aSQ)
+[![Video #2 For a local environment, install MySQL, WordPress, CLI, phpmyadmin with Docker using a Makefile ](part_2_yt_zambian_local_environment_with_docker_usecase_1.png)](https://www.youtube.com/watch?v=Bel7dcK4aSQ)
+
+- [Video #3 Launching the well-known WP 5-minutes-install, playing inside the Backoffice & through WP-CLI into the console](https://www.youtube.com/watch?v=xV4ZueOnoyA)
+[![Video #3 Launching the well-known WP 5-minutes-install, playing inside the Backoffice & through WP-CLI into the console](part_3_yt_zambian_local_environment_with_docker_usecase_1.png)](https://www.youtube.com/watch?v=xV4ZueOnoyA)
+
+
 
 ## Book Introduction
 
